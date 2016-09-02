@@ -1,0 +1,24 @@
+{
+  "name": "video-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apjames93/video-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apjames93/video-db/issues"
+  },
+  "homepage": "https://github.com/apjames93/video-db#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "knex": "^0.11.10",
+    "pg": "^6.1.0"
+  }
+}
