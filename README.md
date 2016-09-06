@@ -1,6 +1,6 @@
 # video-db
 
-#### tech 
--node
--PostgreSQL
--Knex.js
+#### tech
+* node
+* PostgreSQL
+* Knex.js
